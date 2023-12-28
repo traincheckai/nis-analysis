@@ -1,2 +1,3 @@
 # NIS Analysis
-template for case-control studies on NIS data 
+
+NIS clinical and surgical data analysis.
